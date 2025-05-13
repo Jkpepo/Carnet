@@ -24,7 +24,9 @@ Aplicación móvil desarrollada con **Expo** y **React Native**, que simula un c
 
    En tu terminal bash.
    git clone https://github.com/Jkpepo/Carnet.git
+
    cd Carnet
+
    code . (Si usas Visual Studio Code)
 
 3. Instala las dependencias:
