@@ -11,7 +11,7 @@ Aplicación móvil desarrollada con **Expo** y **React Native**, que simula un c
 - 👤 Nombre completo
 - 🆔 Número de matrícula (Función que me genera un numero aleatorio de 6 digitos)
 - 🎓 Nombre de la carrera
-- 📎 Código QR generado con los datos que se ingresen (Nombre y CC)
+- 📎 Código QR generado con los datos que se ingresen (Nombre y CC). Se puede escanear
 - 🔁 Se presiona el carnet para girar y mostrar el reverso
 - 🎨 Diseño con fondo blanco, bordes redondeados y sombra
 - 🧾 Línea de separación entre datos y QR
